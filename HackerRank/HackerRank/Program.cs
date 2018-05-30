@@ -10,7 +10,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            ApplesAndOranges.Run();
+            //ApplesAndOranges.Run();
+            KangarooRace.Run();
         }
     }
 }
