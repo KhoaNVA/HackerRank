@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="ApplesAndOranges.cs" />
     <Compile Include="BetweenSet.cs" />
+    <Compile Include="BirthdayChoc.cs" />
+    <Compile Include="BreakingTheRecords.cs" />
     <Compile Include="Kangaroo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
