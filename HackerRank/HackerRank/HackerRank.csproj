@@ -46,6 +46,7 @@
     <Compile Include="BetweenSet.cs" />
     <Compile Include="BirthdayChoc.cs" />
     <Compile Include="BreakingTheRecords.cs" />
+    <Compile Include="DivisibleSumPair.cs" />
     <Compile Include="Kangaroo.cs" />
     <Compile Include="LinkedList.cs" />
     <Compile Include="Program.cs" />
